@@ -284,17 +284,13 @@ function actualizarUltimaActualizacion() {
     "Última actualización: " + fecha.toLocaleDateString('es-NI', opciones);
 }
 
-const percentText = document.querySelector(".percent");
-let percent = 0;
-
-const interval = setInterval(() => {
-  percent += 2;
-  if (percent > 100) percent = 100;
-  if (percentText) percentText.textContent = percent + "%";
-}, 100);
-
 window.addEventListener("load", () => {
-  setTimeout(() => {
-    clearInterval(interval);
-  }, 5000);
+    setTimeout(() => {
+        const intro = document.getElementById("cinematic-intro");
+        if (intro) {
+            intro.style.transition = "1s ease";
+            intro.style.opacity = "0";
+            setTimeout(() => intro.remove(), 1000);
+        }
+    }, 5000);
 });
