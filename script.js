@@ -2250,7 +2250,7 @@
         "CARLOS LENIN SABALLOS MATUS": ["Cuest. UD2 - Políticas neoliberales", "Cuest. UD2 - Transformaciones GRUN", "Cuest. UD3 - Patrimonio Nacional", "Cuest. UD4 - Gestión riesgos", "Cuest. UDI - Orientación Laboral", "Cuest. UDII - Marco Legal Laboral", "Cuest. UDIII - Requerimientos empleo", "Cuest. UDIV - Entrevista laboral", "Cuest. UDIV - Educación en Valores", "Cuest. UI - Ley 985 Cultura de Paz", "Cuest. UI - Rol del ciudadano", "Cuest. UII - Habilidades Socioemocionales", "Cuest. UII - Tipos de Valores", "Cuest. UIII - Principios y Valores", "Cuest. UIII - Código de conducta"]
     },
 
-   {
+   "TG-2488-02-2026":{
     "GLENDA MARIA BAQUEDANO PASTORA": [
         "Cuest. UDIV - Educación en Valores"
     ],
@@ -2706,7 +2706,7 @@
     ],
     "PERLA MASSIEL ZELEDON SAAVEDRA": []
 },
-    {
+    "TG-2489-02-2026":{
     "CARLOS MIGUEL ALEMAN RIVAS": [
         "Cuest. UD1 - Invasión europea",
         "Cuest. UD1 - Guerra nacional",
