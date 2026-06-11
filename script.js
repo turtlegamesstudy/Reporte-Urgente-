@@ -20,47 +20,6 @@
       "Cuest. UIII - Código de conducta"
     ],
     "ARBEL ERNESTO": [
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "MARIA CELESTE": [
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
-    ],
-    "JOSUE SAMUEL": [
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "ELIEZER ISMAEL": [
-      "Cuest. UD2 - Políticas neoliberales",
-      "Cuest. UD2 - Transformaciones GRUN",
-      "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
-      "Cuest. UI - Ley 985 Cultura de Paz",
-      "Cuest. UI - Rol del ciudadano",
-      "Cuest. UII - Habilidades Socioemocionales",
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
-    ],
-    "ASHLEY GRACIELA": [
-      "Cuest. UD1 - Gestión ambiental",
       "Cuest. UD2 - Marco legal ambiental",
       "Cuest. UD3 - Prácticas ambientales",
       "Cuest. UD4 - Gestión riesgos",
@@ -69,56 +28,9 @@
       "Cuest. UDIII - Requerimientos empleo",
       "Cuest. UDIV - Entrevista laboral",
       "Cuest. UDIV - Educación en Valores"
-    ],
-    "CHRISTOPHER ALEXANDER": [
-      "Cuest. UD2 - Estatutos Autonomía",
-      "Cuest. UD2 - Políticas neoliberales",
-      "Cuest. UD2 - Transformaciones GRUN",
-      "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
-      "Cuest. UI - Ley 985 Cultura de Paz",
-      "Cuest. UI - Rol del ciudadano",
-      "Cuest. UII - Habilidades Socioemocionales",
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
-    ],
-    "JEFRIN JOSUE": [
-      "Cuest. UD2 - Políticas neoliberales",
-      "Cuest. UD2 - Transformaciones GRUN",
-      "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "MILAGRO DE LOS ANGELES": [
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
     ],
     "MARIA DE LOS ANGELES": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
+      "Cuest. UD3 - Patrimonio Nacional",
       "Cuest. UI - Ley 985 Cultura de Paz",
       "Cuest. UI - Rol del ciudadano",
       "Cuest. UII - Habilidades Socioemocionales",
@@ -127,13 +39,6 @@
       "Cuest. UIII - Código de conducta"
     ],
     "JHADE SARAI": [
-      "Cuest. UD4 - Gestión riesgos"
-    ],
-    "CRISTOPHER BLADIMIR": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
       "Cuest. UDI - Orientación Laboral",
       "Cuest. UDII - Marco Legal Laboral",
       "Cuest. UDIII - Requerimientos empleo",
@@ -145,12 +50,43 @@
       "Cuest. UII - Tipos de Valores",
       "Cuest. UIII - Principios y Valores",
       "Cuest. UIII - Código de conducta"
+    ],
+    "JORDIN ALEXANDER": [
+      "Cuest. UI - Rol del ciudadano",
+      "Cuest. UII - Habilidades Socioemocionales",
+      "Cuest. UII - Tipos de Valores",
+      "Cuest. UIII - Principios y Valores",
+      "Cuest. UIII - Código de conducta"
+    ],
+    "MARY SARAI": [
+      "Cuest. UD2 - Marco legal ambiental",
+      "Cuest. UD3 - Prácticas ambientales",
+      "Cuest. UD4 - Gestión riesgos",
+      "Cuest. UDI - Orientación Laboral",
+      "Cuest. UDII - Marco Legal Laboral",
+      "Cuest. UDIII - Requerimientos empleo",
+      "Cuest. UDIV - Entrevista laboral",
+      "Cuest. UDIV - Educación en Valores"
     ]
   },
 "TG-15551-02-2026": {
-    "ANGEL GABRIEL": [
+    "MARCELA JAHOSCA": [
+      "Cuest. UDII - Marco Legal Laboral",
+      "Cuest. UDIII - Requerimientos empleo",
+      "Cuest. UDIV - Entrevista laboral",
+      "Cuest. UDIV - Educación en Valores"
+    ],
+    "MEYBELIN NINEL": [
+      "Cuest. UDIV - Entrevista laboral",
+      "Cuest. UDIV - Educación en Valores"
+    ],
+    "INGRID LILIETH": [
+      "Cuest. UD2 - Resistencia somocista",
+      "Cuest. UD2 - Programa histórico RPS",
+      "Cuest. UD2 - Estatutos Autonomía",
+      "Cuest. UD2 - Políticas neoliberales",
+      "Cuest. UD2 - Transformaciones GRUN",
       "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
       "Cuest. UD2 - Marco legal ambiental",
       "Cuest. UD3 - Prácticas ambientales",
       "Cuest. UD4 - Gestión riesgos",
@@ -166,17 +102,8 @@
       "Cuest. UIII - Principios y Valores",
       "Cuest. UIII - Código de conducta"
     ],
-    "HELEEN RACHELL": [
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
+    "ISMAEL RIGOBERTO": [
       "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "LUISA ALEJANDRA": [
       "Cuest. UDIV - Educación en Valores",
       "Cuest. UI - Ley 985 Cultura de Paz",
       "Cuest. UI - Rol del ciudadano",
@@ -185,12 +112,7 @@
       "Cuest. UIII - Principios y Valores",
       "Cuest. UIII - Código de conducta"
     ],
-    "STEVEN JOSE": [
-      "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
+    "YISSEL TATIANA": [
       "Cuest. UDI - Orientación Laboral",
       "Cuest. UDII - Marco Legal Laboral",
       "Cuest. UDIII - Requerimientos empleo",
@@ -203,66 +125,12 @@
       "Cuest. UIII - Principios y Valores",
       "Cuest. UIII - Código de conducta"
     ],
-    "RODERICK ANTONIO": [
+    "JOSHUA MAKENSI": [
+      "Cuest. UD2 - Programa histórico RPS",
+      "Cuest. UD2 - Estatutos Autonomía",
+      "Cuest. UD2 - Políticas neoliberales",
+      "Cuest. UD2 - Transformaciones GRUN",
       "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "AXEL JOSUE": [
-      "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
-      "Cuest. UI - Ley 985 Cultura de Paz",
-      "Cuest. UI - Rol del ciudadano",
-      "Cuest. UII - Habilidades Socioemocionales",
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
-    ],
-    "MAURICIO GABRIEL": [
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "AXEL URANIA": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "LESTER ANTONIO": [
-      "Cuest. UD4 - Gestión riesgos"
-    ],
-    "ELIEZER ANTONIO": [
-      "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
       "Cuest. UDI - Orientación Laboral",
       "Cuest. UDII - Marco Legal Laboral",
       "Cuest. UDIII - Requerimientos empleo",
@@ -276,10 +144,21 @@
       "Cuest. UIII - Código de conducta"
     ]
   },
-"TG-15553-02-2026": {
-    "DIANA DE LOS ANGELES": [
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
+ "TG-15553-02-2026": {
+    "JAHAZIEL EUNICE": [
+      "Cuest. UIII - Código de conducta"
+    ],
+    "BLADIMIR EMANUEL": [
+      "Cuest. UIII - Código de conducta"
+    ],
+    "ERICK ISAI": [
+      "Cuest. UDI - Orientación Laboral",
+      "Cuest. UDII - Marco Legal Laboral",
+      "Cuest. UDIII - Requerimientos empleo",
+      "Cuest. UDIV - Entrevista laboral",
+      "Cuest. UDIV - Educación en Valores"
+    ],
+    "MARIA CELESTE": [
       "Cuest. UDI - Orientación Laboral",
       "Cuest. UDII - Marco Legal Laboral",
       "Cuest. UDIII - Requerimientos empleo",
@@ -292,102 +171,18 @@
       "Cuest. UIII - Principios y Valores",
       "Cuest. UIII - Código de conducta"
     ],
-    "LUIS ALFONSO": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "OSCAR OMAR": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "EMERSON ADOLFO": [
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "NICK JOSUE": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores"
-    ],
-    "ALEYDA AUXILIADORA": [
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
-      "Cuest. UI - Ley 985 Cultura de Paz",
-      "Cuest. UI - Rol del ciudadano",
-      "Cuest. UII - Habilidades Socioemocionales",
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
+    "JOSTIN ALBERTO": [
       "Cuest. UIII - Código de conducta"
     ],
-    "NICOLE ALEJANDRA": [
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
-      "Cuest. UI - Ley 985 Cultura de Paz",
-      "Cuest. UI - Rol del ciudadano",
-      "Cuest. UII - Habilidades Socioemocionales",
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
-    ],
-    "FRANCISCA ISABEL": [
-      "Cuest. UD4 - Gestión riesgos"
-    ],
-    "REBECA VALENTINA": [
+    "MARIA JOSE": [
+      "Cuest. UD1 - Invasión europea",
+      "Cuest. UD1 - Guerra nacional",
+      "Cuest. UD2 - Resistencia somocista",
+      "Cuest. UD2 - Programa histórico RPS",
+      "Cuest. UD2 - Estatutos Autonomía",
+      "Cuest. UD2 - Políticas neoliberales",
+      "Cuest. UD2 - Transformaciones GRUN",
       "Cuest. UD3 - Patrimonio Nacional",
-      "Cuest. UD1 - Gestión ambiental",
-      "Cuest. UD2 - Marco legal ambiental",
-      "Cuest. UD3 - Prácticas ambientales",
-      "Cuest. UD4 - Gestión riesgos",
-      "Cuest. UDI - Orientación Laboral",
-      "Cuest. UDII - Marco Legal Laboral",
-      "Cuest. UDIII - Requerimientos empleo",
-      "Cuest. UDIV - Entrevista laboral",
-      "Cuest. UDIV - Educación en Valores",
-      "Cuest. UI - Ley 985 Cultura de Paz",
-      "Cuest. UI - Rol del ciudadano",
-      "Cuest. UII - Habilidades Socioemocionales",
-      "Cuest. UII - Tipos de Valores",
-      "Cuest. UIII - Principios y Valores",
-      "Cuest. UIII - Código de conducta"
-    ],
-    "STEVEN JAVIER": [
       "Cuest. UD1 - Gestión ambiental",
       "Cuest. UD2 - Marco legal ambiental",
       "Cuest. UD3 - Prácticas ambientales",
